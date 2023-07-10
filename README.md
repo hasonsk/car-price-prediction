@@ -7,7 +7,7 @@ You can download this dataset in [**kaggle**](https://www.kaggle.com/datasets/av
 The dataset used for this project contains information about different cars, including variables such as `Name`, `Location`, `Year`, `Fuel_Type`,	`Engine`, `Seats` and other relevant features. It also includes the corresponding price of each car. This dataset is used for training and evaluating machine learning models.
 
 ## Installation and Setup
-Clone the repository: git clone https://github.com/username/repo.git
+Clone the repository: git clone [github.com/hasonsk/car-price-prediction](https://github.com/hasonsk/car-price-prediction.git)
 
 Navigate to the project directory: ```cd car-price-prediction/model```
 
